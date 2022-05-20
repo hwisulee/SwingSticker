@@ -7,7 +7,7 @@
 설명 : 자바 Swing, 이미지를 불러와 지정해둔 스티커를 골라 붙여 저장하는 간단한 이미지 스티커 부착 프로그램</br>
 제작 인원 : 1명</br>
 맡은 역할 : 프로그램 구현</br>
-개발 기간 : '21.09.09 ~ '21.12.01</br>
+개발 기간 : '20.06.05 ~ '20.06.15</br>
 개발 언어 : Java</br>
 개발 환경 : Windows 10 pro, Eclipse 2019-12
 </code>
@@ -20,19 +20,45 @@
 
 <h2 id="preview">Preview</h2>
 
-not ready yet
+1. 
+
+![face1](https://user-images.githubusercontent.com/62528282/169551624-02a5464a-5dc9-4e4a-a7a4-012ce651f0d7.JPG)
+
+2. 
+
+![face2](https://user-images.githubusercontent.com/62528282/169551644-adca0b3b-4750-4ef7-a395-5e4b4b66f9f2.JPG)
+
+3. 
+
+![face3](https://user-images.githubusercontent.com/62528282/169551650-ebf24880-7479-4fe5-b070-477958baf7b2.JPG)
+
+4. 
+
+![overlayedImg_0](https://user-images.githubusercontent.com/62528282/169551654-ed87810a-94ae-4a14-986f-6dcd8a9ab04e.png)
 
 <h2 id="library">Library</h2>
 
 >This Project included this Library and API.
 
-not ready yet
+1. [Java Swing](https://docs.oracle.com/javase/6/docs/api/javax/swing/package-summary.html)
 
 <h2 id="license">License</h2>
 
 >Library and API has this Licenses
 
-not ready yet
+1. Java Swing
+
+JSR-000270 JavaTM SE 6 Release Contents Maintenance Release
+Specification: JSR-000270 Java(tm) SE 6 ("Specification")
+Version: 6.1
+Status: Maintenance Release 1
+Specification Lead: Oracle America, Inc. ("Specification Lead")
+Release: March 2015
+Copyright 2015 Oracle America, Inc. ("Oracle")
+500 Oracle Parkway, Redwood City, CA 94065, U.S.A
+All rights reserved.
+
+[More Information](https://download.oracle.com/otndocs/jcp/java_se-6-mrel-spec/license.html)
 
 <br>
 
