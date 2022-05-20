@@ -20,19 +20,19 @@
 
 <h2 id="preview">Preview</h2>
 
-1. 
+1. 실행시 기본적인 화면 구성
 
 ![face1](https://user-images.githubusercontent.com/62528282/169551624-02a5464a-5dc9-4e4a-a7a4-012ce651f0d7.JPG)
 
-2. 
+2. 이미지를 불러오지 않은 채 동작할 경우 작동하는 에러 다이얼로그 (이미지 저장, 스티커 부착, 스티커 위치 조정)
 
 ![face2](https://user-images.githubusercontent.com/62528282/169551644-adca0b3b-4750-4ef7-a395-5e4b4b66f9f2.JPG)
 
-3. 
+3. 사용 예시 (이미지를 불러온 후, 스티커를 선택하여 위치를 조정한 경우)
 
 ![face3](https://user-images.githubusercontent.com/62528282/169551650-ebf24880-7479-4fe5-b070-477958baf7b2.JPG)
 
-4. 
+4. 이미지 저장을 통해 저장된 이미지 (바탕화면에 저장되며 파일 이름 및 형식은 "overlaydimg_@.png")
 
 ![overlayedImg_0](https://user-images.githubusercontent.com/62528282/169551654-ed87810a-94ae-4a14-986f-6dcd8a9ab04e.png)
 
